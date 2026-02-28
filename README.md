@@ -5,9 +5,9 @@
 
 ---
 
-### Name: 
-### Student Id: 
-### Email: 
+### Name: Pang Zi Yang
+### Student Id: 20994568
+### Email: zypang@connect.ust.hk
 
 ---
 
